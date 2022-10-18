@@ -1,5 +1,4 @@
-from functools import lru_cache
-
+from functools import cache
 from numpy import sqrt
 from simple_functions.functions1 import factorial
 
