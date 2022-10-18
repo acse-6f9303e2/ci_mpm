@@ -1,6 +1,6 @@
-import pytest
 import numpy as np
-from simple_functions import my_sum, factorial
+import pytest
+from simple_functions import factorial, my_sum
 from simple_functions.trig_functions import s
 
 
